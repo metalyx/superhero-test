@@ -1,0 +1,13 @@
+.container form {
+  display: flex;
+  gap: 25px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.input input {
+  width: 75px;
+}
